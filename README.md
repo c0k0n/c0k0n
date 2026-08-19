@@ -6,14 +6,15 @@
 
 ## c0k0n
 
-<sup>Myanmar · software · language · learning</sup>
+<sup>computers · software · language · learning</sup>
 
 <br />
 <br />
 
-I’m still figuring most of this out as I go. I make small websites and tools;
-some are useful, some are experiments, and a few start as questions I don’t
-know the answer to yet.
+I spend a lot of time around computers and computer-related things. I’m still
+figuring most of this out as I go, making small websites and tools along the way;
+some are useful, some are experiments, and a few start as questions I don’t know
+the answer to yet.
 
 <br />
 <br />
