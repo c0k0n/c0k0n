@@ -1,0 +1,39 @@
+<svg width="1600" height="380" viewBox="0 0 1600 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">A small constellation of interests</title>
+  <desc id="desc">Five connected nodes represent websites, tools, language, learning, and data experiments.</desc>
+  <defs>
+    <linearGradient id="line" x1="250" y1="70" x2="1360" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8CC8BB" stop-opacity="0.22"/>
+      <stop offset="0.5" stop-color="#F5B56B" stop-opacity="0.82"/>
+      <stop offset="1" stop-color="#C3A6E8" stop-opacity="0.32"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 190) rotate(90) scale(105)">
+      <stop stop-color="#F5B56B" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#F5B56B" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect x="1" y="1" width="1598" height="378" rx="18" fill="#071426" stroke="#24435A"/>
+  <circle cx="800" cy="190" r="105" fill="url(#sun)" filter="url(#soft)"/>
+  <path d="M210 191H1390" stroke="url(#line)" stroke-width="1.5" stroke-dasharray="3 10"/>
+  <path d="M385 105L800 190L1215 105M800 190L1215 276M800 190L385 276" stroke="url(#line)" stroke-width="1.5"/>
+  <circle cx="800" cy="190" r="42" fill="#102C43" stroke="#F5B56B" stroke-width="2"/>
+  <circle cx="385" cy="105" r="26" fill="#102C43" stroke="#8CC8BB" stroke-width="2"/>
+  <circle cx="1215" cy="105" r="26" fill="#102C43" stroke="#C3A6E8" stroke-width="2"/>
+  <circle cx="385" cy="276" r="26" fill="#102C43" stroke="#F29D86" stroke-width="2"/>
+  <circle cx="1215" cy="276" r="26" fill="#102C43" stroke="#8CC8BB" stroke-width="2"/>
+  <g fill="#F8E9D1" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="800" y="185" font-size="17" font-weight="600">c0k0n</text>
+    <text x="800" y="207" font-size="12" fill="#B9CBD3">still curious</text>
+    <text x="385" y="61" font-size="16">websites</text>
+    <text x="1215" y="61" font-size="16">language</text>
+    <text x="385" y="331" font-size="16">tools</text>
+    <text x="1215" y="331" font-size="16">data experiments</text>
+  </g>
+  <g fill="#F5B56B" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
+    <text x="385" y="110">◌</text><text x="1215" y="110">◈</text><text x="385" y="281">⇧</text><text x="1215" y="281">⌁</text>
+  </g>
+  <g fill="#A8BECA" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
+    <text x="800" y="35">a few directions things tend to wander in</text>
+  </g>
+</svg>

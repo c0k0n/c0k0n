@@ -12,14 +12,12 @@
 <br />
 
 I spend a lot of time around computers and computer-related things. I’m still
-figuring most of this out as I go, making small websites and tools along the way;
-some are useful, some are experiments, and a few start as questions I don’t know
-the answer to yet.
+figuring most of this out as I go, making small websites and tools along the way.
 
 <br />
 <br />
 
-<a href="https://github.com/c0k0n?tab=repositories">the shelf</a> &nbsp;·&nbsp;
+<a href="https://github.com/c0k0n?tab=repositories">look around the shelf</a> &nbsp;·&nbsp;
 <a href="https://basirah.pages.dev">Basirah ↗</a> &nbsp;·&nbsp;
 <a href="https://languageatlas.pages.dev">Language Atlas ↗</a>
 
@@ -27,42 +25,61 @@ the answer to yet.
 
 <br />
 
+<img src="./assets/constellation.svg" alt="A constellation connecting websites, tools, language, learning, and data experiments" width="100%" />
+
+<br />
+
+<table>
+<tr>
+<td align="center" width="25%"><strong>04</strong><br /><sub>small projects</sub></td>
+<td align="center" width="25%"><strong>02</strong><br /><sub>live web experiences</sub></td>
+<td align="center" width="25%"><strong>83</strong><br /><sub>languages in the atlas</sub></td>
+<td align="center" width="25%"><strong>164</strong><br /><sub>Basirah entries</sub></td>
+</tr>
+</table>
+
+<br />
+
+## A small shelf
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### A few things I’ve made
+### ◌ [Basirah](https://github.com/c0k0n/basirah)
 
-<br />
+**بَصِيرَة** · a bilingual Islamic knowledge site with selected Qur’an surahs, recitation, essential duas, and the Names of Allah in Burmese, English, and Arabic.
 
-<a href="https://github.com/c0k0n/basirah"><img src="https://img.shields.io/badge/بَصِيرَة%20%20Basirah-102a43?style=for-the-badge&labelColor=102a43&color=f5b56b" alt="Basirah" /></a>
-
-An Islamic knowledge site for Myanmar Muslims, with Qur’an, recitation, duas, and the Names of Allah in Burmese, English, and Arabic.
-
-<br />
-<br />
-
-<a href="https://github.com/c0k0n/languageatlas"><img src="https://img.shields.io/badge/LANGUAGE%20ATLAS-102a43?style=for-the-badge&labelColor=102a43&color=8cc8bb" alt="Language Atlas" /></a>
-
-An offline-friendly way to browse 83 programming languages without pretending that one of them is “the best.”
+<a href="https://basirah.pages.dev"><img src="https://img.shields.io/badge/open%20the%20site-f5b56b?style=flat-square&labelColor=102a43&color=f5b56b" alt="Open Basirah" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### The smaller shelf
+### ◈ [Language Atlas](https://github.com/c0k0n/languageatlas)
 
-<br />
+An offline-friendly field guide to programming languages, built for browsing, filtering, comparing, and changing your mind.
 
-<a href="https://github.com/c0k0n/lstm-trend"><img src="https://img.shields.io/badge/LSTM%20TREND-102a43?style=for-the-badge&labelColor=102a43&color=c3a6e8" alt="LSTM Trend" /></a>
+<a href="https://languageatlas.pages.dev"><img src="https://img.shields.io/badge/open%20the%20atlas-8cc8bb?style=flat-square&labelColor=102a43&color=8cc8bb" alt="Open Language Atlas" /></a>
 
-An ML forecasting project that keeps the baselines and limitations in the same room as the model.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br />
-<br />
+### ⌁ [LSTM Trend](https://github.com/c0k0n/lstm-trend)
 
-<a href="https://github.com/c0k0n/update-go"><img src="https://img.shields.io/badge/UPDATE%20GO-102a43?style=for-the-badge&labelColor=102a43&color=f29d86" alt="update-go" /></a>
+An ML forecasting experiment. The model is there, but so are the naive baselines, the awkward questions, and the limitations.
 
-A careful one-command Go installer and updater. Small, useful, and a little paranoid about checksums.
+<a href="https://lstm-trend.streamlit.app"><img src="https://img.shields.io/badge/try%20the%20experiment-c3a6e8?style=flat-square&labelColor=102a43&color=c3a6e8" alt="Try LSTM Trend" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⇧ [update-go](https://github.com/c0k0n/update-go)
+
+A small Go installer and updater for Linux and macOS. It checks the checksum before touching the existing installation.
+
+<a href="https://github.com/c0k0n/update-go"><img src="https://img.shields.io/badge/read%20the%20script-f29d86?style=flat-square&labelColor=102a43&color=f29d86" alt="Read update-go" /></a>
 
 </td>
 </tr>
@@ -70,27 +87,46 @@ A careful one-command Go installer and updater. Small, useful, and a little para
 
 <br />
 
+## On the desk
+
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top"><strong>web</strong><br /><sub>Astro · TypeScript · CSS</sub></td>
+<td width="25%" valign="top"><strong>runtime</strong><br /><sub>Bun · Cloudflare · Linux</sub></td>
+<td width="25%" valign="top"><strong>data</strong><br /><sub>Python · Keras · PyTorch</sub></td>
+<td width="25%" valign="top"><strong>systems</strong><br /><sub>Go · Shell · Git</sub></td>
+</tr>
+</table>
 
-### Right now
+<br />
 
-Lately I’ve been trying to make static sites feel less static: good type, good spacing, quick pages, and no unnecessary machinery.
+## Open tabs
+
+<table>
+<tr>
+<td width="25%" align="center"><code>learning</code><br /><br />Burmese typography on the web</td>
+<td width="25%" align="center"><code>trying</code><br /><br />small tools that remove repetitive work</td>
+<td width="25%" align="center"><code>noticing</code><br /><br />how much a fast interface changes the feeling of a site</td>
+<td width="25%" align="center"><code>wondering</code><br /><br />what else can be made with a small amount of code</td>
+</tr>
+</table>
+
+<br />
+
+## Quietly proud of
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+• keeping Language Atlas dependency-free<br />
+• showing limitations next to the forecasting model
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### On the desk
-
-Astro · TypeScript · Bun · Python · Go · Cloudflare
-
-</td>
-<td width="33%" valign="top">
-
-### In the queue
-
-More small tools, a better feel for Burmese web typography, and a few ideas that are still only notes.
+• making Basirah readable on small screens<br />
+• verifying downloads before changing a Go installation
 
 </td>
 </tr>
@@ -99,11 +135,13 @@ More small tools, a better feel for Burmese web typography, and a few ideas that
 <br />
 
 <details>
-<summary><b>What I tend to notice</b></summary>
+<summary><b>Some computer-shaped notes</b></summary>
 
 <br />
 
-Whether a page is easy to read on a cheap phone. Whether a tool explains what it is doing. Whether the documentation admits when something is only a first attempt. Whether the useful part can stay simple.
+I like software that gives you a good surface to think on: a page that loads quickly, a command that tells you what it is doing, a dataset whose categories make sense, or documentation that is honest about the edges of a project.
+
+I also like the less practical parts of computers — old interfaces, tiny utilities, strange file formats, command-line rituals, and the feeling of understanding one more layer than I did yesterday.
 
 </details>
 
@@ -118,12 +156,9 @@ Whether a page is easy to read on a cheap phone. Whether a tool explains what it
 <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-102a43?style=flat-square&logo=go&logoColor=00add8" alt="Go" /></a>
 <a href="https://developers.cloudflare.com/pages/"><img src="https://img.shields.io/badge/Cloudflare-102a43?style=flat-square&logo=cloudflare&logoColor=f38020" alt="Cloudflare" /></a>
 
-</div>
-
+<br />
 <br />
 
-<div align="center">
-
-<sub>Thanks for stopping by.</sub>
+<sub>Most of this started with “I wonder if…”</sub>
 
 </div>
