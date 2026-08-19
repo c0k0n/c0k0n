@@ -113,24 +113,30 @@ A small Go installer and updater for Linux and macOS. It checks the checksum bef
 
 <br />
 
-## Quietly proud of
+## Still figuring things out
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-• keeping Language Atlas dependency-free<br />
-• showing limitations next to the forecasting model
+• keeping Language Atlas simple<br />
+• learning how to make Basirah clearer on small screens
 
 </td>
 <td width="50%" valign="top">
 
-• making Basirah readable on small screens<br />
-• verifying downloads before changing a Go installation
+• finding out what an ML model can and cannot tell me<br />
+• making a small utility reliable enough to use
 
 </td>
 </tr>
 </table>
+
+<br />
+
+## Learning with AI
+
+These are small learning projects. I explored and developed them while learning and working alongside AI. It is simply part of how I study, test ideas, and make things now.
 
 <br />
 
@@ -141,7 +147,7 @@ A small Go installer and updater for Linux and macOS. It checks the checksum bef
 
 I like software that gives you a good surface to think on: a page that loads quickly, a command that tells you what it is doing, a dataset whose categories make sense, or documentation that is honest about the edges of a project.
 
-I also like the less practical parts of computers — old interfaces, tiny utilities, strange file formats, command-line rituals, and the feeling of understanding one more layer than I did yesterday.
+I also like the less practical parts of computers: old interfaces, tiny utilities, strange file formats, command-line rituals, and the feeling of understanding one more layer than I did yesterday.
 
 </details>
 
