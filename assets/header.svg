@@ -1,0 +1,28 @@
+<svg width="1600" height="360" viewBox="0 0 1600 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract horizon</title>
+  <desc id="desc">A warm amber horizon dissolving into a deep blue night sky.</desc>
+  <defs>
+    <linearGradient id="sky" x1="800" y1="0" x2="800" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071426"/>
+      <stop offset="0.62" stop-color="#102C43"/>
+      <stop offset="1" stop-color="#7A4B32"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 318) rotate(-90) scale(185 600)">
+      <stop stop-color="#F5B56B" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F5B56B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="290" y1="0" x2="1310" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5B56B" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F5B56B"/>
+      <stop offset="1" stop-color="#F5B56B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="360" rx="18" fill="url(#sky)"/>
+  <circle cx="800" cy="312" r="250" fill="url(#glow)"/>
+  <path d="M0 315C260 286 430 326 650 310C820 298 1010 275 1210 310C1370 338 1490 321 1600 302V360H0V315Z" fill="#061321" fill-opacity="0.68"/>
+  <path d="M280 282H1320" stroke="url(#line)" stroke-width="1"/>
+  <circle cx="320" cy="80" r="1.5" fill="#F8D7A4" fill-opacity="0.8"/>
+  <circle cx="1290" cy="112" r="1.5" fill="#F8D7A4" fill-opacity="0.6"/>
+  <circle cx="1170" cy="54" r="1" fill="#F8D7A4" fill-opacity="0.7"/>
+  <circle cx="470" cy="140" r="1" fill="#F8D7A4" fill-opacity="0.5"/>
+</svg>
