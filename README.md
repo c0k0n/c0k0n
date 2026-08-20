@@ -146,6 +146,6 @@ I also like the less practical parts of computers: old interfaces, tiny utilitie
 <br />
 <br />
 
-<sub>Most of this started with “I wonder if…”</sub>
+<sub>Tqsm for stopping by ٩(◕‿◕)۶</sub>
 
 </div>
