@@ -9,17 +9,11 @@
 <sup>computers · software · language · learning</sup>
 
 <br />
-<br />
 
 I spend a lot of time around computers and computer-related things. I’m still
 figuring most of this out as I go, making small websites and tools along the way.
 
 <br />
-<br />
-
-<a href="https://github.com/c0k0n?tab=repositories">look around the shelf</a> &nbsp;·&nbsp;
-<a href="https://basirah.pages.dev">Basirah ↗</a> &nbsp;·&nbsp;
-<a href="https://languageatlas.pages.dev">Language Atlas ↗</a>
 
 </div>
 
@@ -95,19 +89,6 @@ A small Go installer and updater for Linux and macOS. It checks the checksum bef
 <td width="25%" valign="top"><strong>runtime</strong><br /><sub>Bun · Cloudflare · Linux</sub></td>
 <td width="25%" valign="top"><strong>data</strong><br /><sub>Python · Keras · PyTorch</sub></td>
 <td width="25%" valign="top"><strong>systems</strong><br /><sub>Go · Shell · Git</sub></td>
-</tr>
-</table>
-
-<br />
-
-## Open tabs
-
-<table>
-<tr>
-<td width="25%" align="center"><code>learning</code><br /><br />Burmese typography on the web</td>
-<td width="25%" align="center"><code>trying</code><br /><br />small tools that remove repetitive work</td>
-<td width="25%" align="center"><code>noticing</code><br /><br />how much a fast interface changes the feeling of a site</td>
-<td width="25%" align="center"><code>wondering</code><br /><br />what else can be made with a small amount of code</td>
 </tr>
 </table>
 
