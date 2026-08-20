@@ -90,7 +90,7 @@ A small Go installer and updater for Linux and macOS. It checks the checksum bef
 </td>
 <td width="50%" valign="top">
 
-• Small utilities to save everyone's day/>
+• Small utilities to save everyone's day <br />
 • New Techs and New Stuffs
 
 </td>
