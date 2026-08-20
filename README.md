@@ -2,26 +2,16 @@
 
 <img src="./assets/header.svg" alt="A warm amber horizon dissolving into a deep blue night sky" width="100%" />
 
-<br />
-
 ## c0k0n
 
 <sup>computers · software · language · learning</sup>
 
-<br />
-
 I spend a lot of time around computers and computer-related things. I’m still
 figuring most of this out as I go, making small websites and tools along the way.
 
-<br />
-
 </div>
 
-<br />
-
 <img src="./assets/constellation.svg" alt="A constellation connecting websites, tools, language, learning, and data experiments" width="100%" />
-
-<br />
 
 <table>
 <tr>
@@ -31,8 +21,6 @@ figuring most of this out as I go, making small websites and tools along the way
 <td align="center" width="25%"><strong>164</strong><br /><sub>Basirah entries</sub></td>
 </tr>
 </table>
-
-<br />
 
 ## A small shelf
 
@@ -79,8 +67,6 @@ A small Go installer and updater for Linux and macOS. It checks the checksum bef
 </tr>
 </table>
 
-<br />
-
 ## On the desk
 
 <table>
@@ -92,47 +78,37 @@ A small Go installer and updater for Linux and macOS. It checks the checksum bef
 </tr>
 </table>
 
-<br />
-
 ## Still figuring things out
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-• keeping Language Atlas simple<br />
-• learning how to make Basirah clearer on small screens
+• Data Analytics <br />
+• Web Frameworks
 
 </td>
 <td width="50%" valign="top">
 
-• finding out what an ML model can and cannot tell me<br />
-• making a small utility reliable enough to use
+• Small utilities to save everyone's day/>
+• New Techs and New Stuffs
 
 </td>
 </tr>
 </table>
 
-<br />
-
 ## Learning with AI
 
 These are small learning projects. I explored and developed them while learning and working alongside AI. It is simply part of how I study, test ideas, and make things now.
 
-<br />
-
 <details>
-<summary><b>Some computer-shaped notes</b></summary>
-
-<br />
+<summary><b>Some notes</b></summary>
 
 I like software that gives you a good surface to think on: a page that loads quickly, a command that tells you what it is doing, a dataset whose categories make sense, or documentation that is honest about the edges of a project.
 
-I also like the less practical parts of computers: old interfaces, tiny utilities, strange file formats, command-line rituals, and the feeling of understanding one more layer than I did yesterday.
+I also like the less practical parts of computers: new interfaces, tiny utilities, strange file formats, command-line stuffs, and the feeling of understanding one more layer than I did yesterday.
 
 </details>
-
-<br />
 
 <div align="center">
 
@@ -143,7 +119,6 @@ I also like the less practical parts of computers: old interfaces, tiny utilitie
 <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-102a43?style=flat-square&logo=go&logoColor=00add8" alt="Go" /></a>
 <a href="https://developers.cloudflare.com/pages/"><img src="https://img.shields.io/badge/Cloudflare-102a43?style=flat-square&logo=cloudflare&logoColor=f38020" alt="Cloudflare" /></a>
 
-<br />
 <br />
 
 <sub>Tqsm for stopping by ٩(◕‿◕)۶</sub>
