@@ -48,11 +48,11 @@ That usually means a fast interface, a command that explains itself, a dataset w
 
 ## GitHub signals
 
-These cards are generated from GitHub activity and answer two different questions: **how the profile is changing** and **which languages appear across its repositories**. They can update without a manual README edit.
+These cards answer two different questions: **how the profile is changing** and **which languages appear across its repositories**. The activity card is live; the language card is kept locally so its palette stays intentional.
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0k0n&theme=github_dark"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0k0n&theme=default"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0k0n&theme=default" alt="GitHub profile statistics" width="49%" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0k0n&theme=github_dark"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0k0n&theme=default"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0k0n&theme=default" alt="Languages by repository" width="49%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/repos-per-language-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/repos-per-language-light.svg"><img src="./assets/repos-per-language-light.svg" alt="Languages by repository" width="49%" /></picture>
 </p>
 
 ## Tqsm for stopping by
