@@ -13,7 +13,7 @@
   </a>
 </div>
 
-## Professional context
+## About
 
 CS graduate (Data Science major, CGPA 3.73/4.0) with hands-on ITSM experience at DKSH:
 resolved **224 tickets** in 5 months, deployed **7 business services**, built Power BI
@@ -21,13 +21,13 @@ reporting used across **4 countries**, and published knowledge-base documentatio
 Springer-published researcher (*Visualizing NASDAQ Composite Index Historical Data Using
 Tableau*, LNNS vol. 1152). EF SET C2 English.
 
+Around computers, I make something small enough to understand end to end: web
+interfaces, language-oriented tools, command-line utilities, and data experiments.
+The projects are modest on purpose; the point is to leave behind something useful,
+inspectable, or a little clearer than it was before.
+
 [Portfolio](https://chitko.pages.dev) · [LinkedIn](https://linkedin.com/in/cknyein)
-
-## A little context
-
-I spend a lot of time around computers and computer-related things, usually by making something small enough to understand end to end. The work here moves between web interfaces, language-oriented tools, command-line utilities, and data experiments.
-
-I learn by shipping, comparing, testing, and writing down the edges. The projects are modest on purpose; the point is to leave behind something useful, inspectable, or a little clearer than it was before.
+Open to roles in operations, IT support, data, and administration — relocation abroad with visa sponsorship welcome.
 
 ## Selected work
 
@@ -65,9 +65,9 @@ These cards answer two different questions: **how the profile is changing** and 
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/repos-per-language-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/repos-per-language-light.svg"><img src="./assets/repos-per-language-light.svg" alt="Languages by repository" width="49%" /></picture>
 </p>
 
-## Tqsm for stopping by
+## Thanks for stopping by
 
-Open to roles in operations, IT support, data, and administration — relocation abroad with visa sponsorship welcome.
+The repositories are the best place to see what I am exploring now. If something here is useful, feel free to borrow the idea, open an issue, or follow the thread back to the source.
 
 <div align="center">
   <sub>( ͡° ͜ʖ ͡°) • (o^^o)</sub>
