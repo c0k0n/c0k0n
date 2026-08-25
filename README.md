@@ -22,7 +22,6 @@ the projects below.
 The work here is modest on purpose; the point is to leave behind something useful,
 inspectable, or a little clearer than it was before.
 
-[Portfolio](https://chitko.pages.dev) · [LinkedIn](https://linkedin.com/in/cknyein)
 Open to roles in operations, IT support, data, and administration — relocation abroad with visa sponsorship welcome.
 
 ## Selected work
