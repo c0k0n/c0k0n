@@ -21,8 +21,8 @@ reporting used across **4 countries**, and published knowledge-base documentatio
 Springer-published researcher (*Visualizing NASDAQ Composite Index Historical Data Using
 Tableau*, LNNS vol. 1152). EF SET C2 English.
 
-Around computers, I make something small enough to understand end to end: web
-interfaces, language-oriented tools, command-line utilities, and data experiments.
+Outside work hours I build web interfaces, language-oriented tools, command-line
+utilities, and data experiments — each kept small enough to read in one sitting.
 The projects are modest on purpose; the point is to leave behind something useful,
 inspectable, or a little clearer than it was before.
 
