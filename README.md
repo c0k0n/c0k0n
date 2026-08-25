@@ -65,5 +65,5 @@ These cards answer two different questions: **how the profile is changing** and 
 The repositories are the best place to see what I am exploring now. If something here is useful, feel free to borrow the idea, open an issue, or follow the thread back to the source.
 
 <div align="center">
-  <sub>( ͡° ͜ʖ ͡°) • (o^^o)</sub>
+  <sub>(..◜ᴗ◝..)</sub>
 </div>
