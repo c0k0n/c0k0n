@@ -15,15 +15,11 @@
 
 ## About
 
-CS graduate (Data Science major, CGPA 3.73/4.0) with hands-on ITSM experience at DKSH:
-resolved **224 tickets** in 5 months, deployed **7 business services**, built Power BI
-reporting used across **4 countries**, and published knowledge-base documentation.
-Springer-published researcher (*Visualizing NASDAQ Composite Index Historical Data Using
-Tableau*, LNNS vol. 1152). EF SET C2 English.
+CS graduate who has done the IT-support-and-data day job and still makes small things
+for the web at night. By day: service management, reporting, documentation. After hours:
+the projects below.
 
-Outside work hours I build web interfaces, language-oriented tools, command-line
-utilities, and data experiments — each one readable end to end.
-The projects are modest on purpose; the point is to leave behind something useful,
+The work here is modest on purpose; the point is to leave behind something useful,
 inspectable, or a little clearer than it was before.
 
 [Portfolio](https://chitko.pages.dev) · [LinkedIn](https://linkedin.com/in/cknyein)
