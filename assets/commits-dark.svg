@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="332" viewBox="0 0 1600 332" fill="none" role="img" aria-labelledby="t d"><title id="t">Commits per repository</title><desc id="d">Commit counts: basirah 66, lstm-trend 58, job-tracker 22, languageatlas 21, hobun-ssg 19, update-go 15, galaxy-legend-extractor 1, cv-resume-consolidation 1.</desc><text x="24" y="42" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="600" fill="#E6EDF3">Where the commits landed</text><text x="24" y="68" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8B949E">Commits on the default branch, per project</text><path d="M96 276.0H1548" stroke="#21262D" stroke-width="1"/><text x="82" y="280.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#8B949E" text-anchor="end">0</text><path d="M96 190.5H1548" stroke="#21262D" stroke-width="1"/><text x="82" y="194.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#8B949E" text-anchor="end">30</text><path d="M96 105.1H1548" stroke="#21262D" stroke-width="1"/><text x="82" y="109.1" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#8B949E" text-anchor="end">60</text><g>
+      <rect x="142.8" y="88" width="88.0" height="188" rx="5" fill="#F5B56B">
+        <animate attributeName="height" values="0;188" keyTimes="0;1" dur="1.1s" begin="0.15s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+        <animate attributeName="y" from="276" to="88" keyTimes="0;1" dur="1.1s" begin="0.15s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+      </rect>
+      <text x="186.8" y="79" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="600" fill="#E6EDF3" text-anchor="middle" opacity="0">66
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.4s" begin="0.80s" fill="freeze"/>
+      </text>
+      <text x="186.8" y="300" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="middle">basirah</text>
+    </g><g>
+      <rect x="324.3" y="111" width="88.0" height="165" rx="5" fill="#79C0FF">
+        <animate attributeName="height" values="0;165" keyTimes="0;1" dur="1.1s" begin="0.24s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+        <animate attributeName="y" from="276" to="111" keyTimes="0;1" dur="1.1s" begin="0.24s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+      </rect>
+      <text x="368.3" y="102" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="600" fill="#E6EDF3" text-anchor="middle" opacity="0">58
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.4s" begin="0.89s" fill="freeze"/>
+      </text>
+      <text x="368.3" y="300" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="middle">lstm-trend</text>
+    </g><g>
+      <rect x="505.8" y="213" width="88.0" height="63" rx="5" fill="#7FD1C1">
+        <animate attributeName="height" values="0;63" keyTimes="0;1" dur="1.1s" begin="0.32999999999999996s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+        <animate attributeName="y" from="276" to="213" keyTimes="0;1" dur="1.1s" begin="0.33s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+      </rect>
+      <text x="549.8" y="204" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="600" fill="#E6EDF3" text-anchor="middle" opacity="0">22
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.4s" begin="0.98s" fill="freeze"/>
+      </text>
+      <text x="549.8" y="300" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="middle">job-tracker</text>
+    </g><g>
+      <rect x="687.3" y="216" width="88.0" height="60" rx="5" fill="#C3A6E8">
+        <animate attributeName="height" values="0;60" keyTimes="0;1" dur="1.1s" begin="0.42000000000000004s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+        <animate attributeName="y" from="276" to="216" keyTimes="0;1" dur="1.1s" begin="0.42s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+      </rect>
+      <text x="731.3" y="207" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="600" fill="#E6EDF3" text-anchor="middle" opacity="0">21
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.4s" begin="1.07s" fill="freeze"/>
+      </text>
+      <text x="731.3" y="300" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="middle">languageatlas</text>
+    </g><g>
+      <rect x="868.8" y="222" width="88.0" height="54" rx="5" fill="#F29D86">
+        <animate attributeName="height" values="0;54" keyTimes="0;1" dur="1.1s" begin="0.51s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+        <animate attributeName="y" from="276" to="222" keyTimes="0;1" dur="1.1s" begin="0.51s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+      </rect>
+      <text x="912.8" y="213" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="600" fill="#E6EDF3" text-anchor="middle" opacity="0">19
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.4s" begin="1.16s" fill="freeze"/>
+      </text>
+      <text x="912.8" y="300" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="middle">hobun-ssg</text>
+    </g><g>
+      <rect x="1050.3" y="233" width="88.0" height="43" rx="5" fill="#A5D6FF">
+        <animate attributeName="height" values="0;43" keyTimes="0;1" dur="1.1s" begin="0.6s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+        <animate attributeName="y" from="276" to="233" keyTimes="0;1" dur="1.1s" begin="0.60s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+      </rect>
+      <text x="1094.3" y="224" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="600" fill="#E6EDF3" text-anchor="middle" opacity="0">15
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.4s" begin="1.25s" fill="freeze"/>
+      </text>
+      <text x="1094.3" y="300" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="middle">update-go</text>
+    </g><g>
+      <rect x="1231.8" y="273" width="88.0" height="3" rx="5" fill="#FFD58A">
+        <animate attributeName="height" values="0;3" keyTimes="0;1" dur="1.1s" begin="0.6900000000000001s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+        <animate attributeName="y" from="276" to="273" keyTimes="0;1" dur="1.1s" begin="0.69s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+      </rect>
+      <text x="1275.8" y="264" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="600" fill="#E6EDF3" text-anchor="middle" opacity="0">1
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.4s" begin="1.34s" fill="freeze"/>
+      </text>
+      <text x="1275.8" y="300" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="middle">galaxy-legend</text><text x="1275.8" y="315" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="middle">extractor</text>
+    </g><g>
+      <rect x="1413.3" y="273" width="88.0" height="3" rx="5" fill="#D2A8FF">
+        <animate attributeName="height" values="0;3" keyTimes="0;1" dur="1.1s" begin="0.78s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+        <animate attributeName="y" from="276" to="273" keyTimes="0;1" dur="1.1s" begin="0.78s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+      </rect>
+      <text x="1457.3" y="264" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="600" fill="#E6EDF3" text-anchor="middle" opacity="0">1
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.4s" begin="1.43s" fill="freeze"/>
+      </text>
+      <text x="1457.3" y="300" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="middle">cv-resume</text><text x="1457.3" y="315" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E" text-anchor="middle">consolidation</text>
+    </g><path d="M96 276H1548" stroke="#30363D" stroke-width="1.5"/></svg>

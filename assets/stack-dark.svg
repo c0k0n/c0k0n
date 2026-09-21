@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="306" viewBox="0 0 1600 306" fill="none" role="img" aria-labelledby="t d"><title id="t">Working set</title><desc id="d">Tools by area: Web — TypeScript, SvelteKit, Svelte 5, Astro, Hono, HTML, CSS, Tailwind. Runtime &amp; delivery — Bun, Node, Cloudflare Workers, Cloudflare Pages, Streamlit. Data &amp; ML — Python, Keras, PyTorch, scikit-learn, yfinance, SQL, Power BI. Systems &amp; tooling — Bash, Go, Git, Docker, Linux, WSL.</desc><text x="24" y="42" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="600" fill="#E6EDF3">Working set</text><text x="24" y="68" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8B949E">What tends to show up in the work</text><g><rect x="10" y="96" width="380" height="186" rx="14" fill="#151B23" stroke="#30363D" opacity="0">
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.4s" begin="0.00s" fill="freeze"/></rect>
+      <rect x="10" y="96" width="380" height="3" rx="1.5" fill="#F5B56B">
+        <animate attributeName="width" values="0;380" keyTimes="0;1" dur="0.7s" begin="0.00s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect>
+      <text x="26" y="122" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EDF3">Web</text>
+      <g opacity="0"><rect x="26" y="128" width="98" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="75" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">TypeScript</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.20s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.20s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="132" y="128" width="90" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="177" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">SvelteKit</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.24s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.24s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="230" y="128" width="83" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="271.5" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Svelte 5</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.28s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.28s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="26" y="164" width="60" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="56" y="182" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Astro</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.32s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.32s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="94" y="164" width="52" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="120" y="182" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Hono</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.36s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.36s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="154" y="164" width="52" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="180" y="182" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">HTML</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.40s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.40s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="214" y="164" width="45" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="236.5" y="182" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">CSS</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.44s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.44s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="267" y="164" width="83" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="308.5" y="182" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Tailwind</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.48s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.48s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g></g><g><rect x="410" y="96" width="380" height="186" rx="14" fill="#151B23" stroke="#30363D" opacity="0">
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.4s" begin="0.08s" fill="freeze"/></rect>
+      <rect x="410" y="96" width="380" height="3" rx="1.5" fill="#79C0FF">
+        <animate attributeName="width" values="0;380" keyTimes="0;1" dur="0.7s" begin="0.08s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect>
+      <text x="426" y="122" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EDF3">Runtime &amp; delivery</text>
+      <g opacity="0"><rect x="426" y="128" width="45" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="448.5" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Bun</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.52s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.52s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="479" y="128" width="52" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="505" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Node</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.56s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.56s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="539" y="128" width="159" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="618.5" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Cloudflare Workers</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.60s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.60s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="426" y="164" width="144" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="498" y="182" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Cloudflare Pages</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.64s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.64s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="578" y="164" width="90" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="623" y="182" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Streamlit</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.68s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.68s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g></g><g><rect x="810" y="96" width="380" height="186" rx="14" fill="#151B23" stroke="#30363D" opacity="0">
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.4s" begin="0.16s" fill="freeze"/></rect>
+      <rect x="810" y="96" width="380" height="3" rx="1.5" fill="#7FD1C1">
+        <animate attributeName="width" values="0;380" keyTimes="0;1" dur="0.7s" begin="0.16s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect>
+      <text x="826" y="122" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EDF3">Data &amp; ML</text>
+      <g opacity="0"><rect x="826" y="128" width="68" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="860" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Python</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.72s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.72s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="902" y="128" width="60" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="932" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Keras</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.76s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.76s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="970" y="128" width="75" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="1007.5" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">PyTorch</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.80s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.80s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="1053" y="128" width="113" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="1109.5" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">scikit-learn</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.84s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.84s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="826" y="164" width="83" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="867.5" y="182" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">yfinance</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.88s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.88s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="917" y="164" width="45" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="939.5" y="182" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">SQL</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.92s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.92s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="970" y="164" width="83" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="1011.5" y="182" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Power BI</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="0.96s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="0.96s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g></g><g><rect x="1210" y="96" width="380" height="186" rx="14" fill="#151B23" stroke="#30363D" opacity="0">
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.4s" begin="0.24s" fill="freeze"/></rect>
+      <rect x="1210" y="96" width="380" height="3" rx="1.5" fill="#C3A6E8">
+        <animate attributeName="width" values="0;380" keyTimes="0;1" dur="0.7s" begin="0.24s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect>
+      <text x="1226" y="122" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EDF3">Systems &amp; tooling</text>
+      <g opacity="0"><rect x="1226" y="128" width="52" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="1252" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Bash</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="1.00s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="1.00s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="1286" y="128" width="37" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="1304.5" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Go</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="1.04s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="1.04s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="1331" y="128" width="45" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="1353.5" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Git</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="1.08s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="1.08s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="1384" y="128" width="68" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="1418" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Docker</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="1.12s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="1.12s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="1460" y="128" width="60" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="1490" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">Linux</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="1.16s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="1.16s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g><g opacity="0"><rect x="1528" y="128" width="45" height="27" rx="13.5" fill="#151B23" stroke="#30363D"/>
+        <text x="1550.5" y="146" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#E6EDF3" text-anchor="middle">WSL</text>
+        <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.45s" begin="1.20s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" values="0 7;0 0" keyTimes="0;1" dur="0.45s" begin="1.20s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></g></g></svg>

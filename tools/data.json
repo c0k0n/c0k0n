@@ -1,0 +1,61 @@
+{
+ "projects": [
+  {
+   "name": "job-tracker",
+   "commits": 22,
+   "homepage": ""
+  },
+  {
+   "name": "update-go",
+   "commits": 15,
+   "homepage": ""
+  },
+  {
+   "name": "lstm-trend",
+   "commits": 58,
+   "homepage": "https://lstm-trend.streamlit.app/"
+  },
+  {
+   "name": "hobun-ssg",
+   "commits": 19,
+   "homepage": "https://hobun-ssg.pages.dev/"
+  },
+  {
+   "name": "languageatlas",
+   "commits": 21,
+   "homepage": "https://languageatlas.pages.dev/"
+  },
+  {
+   "name": "basirah",
+   "commits": 66,
+   "homepage": "https://basirah.pages.dev"
+  },
+  {
+   "name": "galaxy-legend-extractor",
+   "commits": 1,
+   "homepage": ""
+  },
+  {
+   "name": "cv-resume-consolidation",
+   "commits": 1,
+   "homepage": ""
+  }
+ ],
+ "commitsYear": 218,
+ "langBytes": {
+  "Svelte": 164692,
+  "TypeScript": 234391,
+  "CSS": 102623,
+  "HTML": 377314,
+  "Shell": 48996,
+  "Python": 263236,
+  "JavaScript": 86487,
+  "JSON": 49795,
+  "XML": 15344,
+  "Text": 1926,
+  "SVG": 242,
+  "Robots Exclusion Rules": 193,
+  "Astro": 78508,
+  "PowerShell": 2130
+ }
+}

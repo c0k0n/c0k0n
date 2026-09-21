@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="412" viewBox="0 0 1600 412" fill="none" role="img" aria-labelledby="t d"><title id="t">Language mix</title><desc id="d">Tracked bytes by language. HTML 26.5 percent, Python 18.5 percent, TypeScript 16.4 percent, Svelte 11.6 percent, CSS 7.2 percent, JavaScript 6.1 percent, Astro 5.5 percent, JSON 3.5 percent, 6 others 4.8 percent.</desc><text x="24" y="42" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="600" fill="#1F2328">Language mix</text><text x="24" y="68" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#59636E">Share of tracked bytes across the public projects — 1.4 MB total</text><g>
+        <text x="24" y="112" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#1F2328">HTML</text>
+        <rect x="176" y="99" width="1130" height="17" rx="4" fill="#EAEEF2"/>
+        <rect x="176" y="99" width="1130" height="17" rx="4" fill="#B46708"><animate attributeName="width" values="0;1130" keyTimes="0;1" dur="1.1s" begin="0.15s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect>
+        <text x="1326" y="112" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#59636E" opacity="0">26.5% · 368 KB
+          <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.5s" begin="0.50s" fill="freeze"/>
+        </text></g><g>
+        <text x="24" y="144" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#1F2328">Python</text>
+        <rect x="176" y="131" width="1130" height="17" rx="4" fill="#EAEEF2"/>
+        <rect x="176" y="131" width="788" height="17" rx="4" fill="#1F6FEB"><animate attributeName="width" values="0;788" keyTimes="0;1" dur="1.1s" begin="0.22999999999999998s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect>
+        <text x="1326" y="144" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#59636E" opacity="0">18.5% · 257 KB
+          <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.5s" begin="0.58s" fill="freeze"/>
+        </text></g><g>
+        <text x="24" y="176" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#1F2328">TypeScript</text>
+        <rect x="176" y="163" width="1130" height="17" rx="4" fill="#EAEEF2"/>
+        <rect x="176" y="163" width="702" height="17" rx="4" fill="#1F7A6B"><animate attributeName="width" values="0;702" keyTimes="0;1" dur="1.1s" begin="0.31s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect>
+        <text x="1326" y="176" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#59636E" opacity="0">16.4% · 229 KB
+          <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.5s" begin="0.66s" fill="freeze"/>
+        </text></g><g>
+        <text x="24" y="208" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#1F2328">Svelte</text>
+        <rect x="176" y="195" width="1130" height="17" rx="4" fill="#EAEEF2"/>
+        <rect x="176" y="195" width="493" height="17" rx="4" fill="#7A4FB0"><animate attributeName="width" values="0;493" keyTimes="0;1" dur="1.1s" begin="0.39s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect>
+        <text x="1326" y="208" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#59636E" opacity="0">11.6% · 161 KB
+          <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.5s" begin="0.74s" fill="freeze"/>
+        </text></g><g>
+        <text x="24" y="240" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#1F2328">CSS</text>
+        <rect x="176" y="227" width="1130" height="17" rx="4" fill="#EAEEF2"/>
+        <rect x="176" y="227" width="307" height="17" rx="4" fill="#B0453A"><animate attributeName="width" values="0;307" keyTimes="0;1" dur="1.1s" begin="0.47s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect>
+        <text x="1326" y="240" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#59636E" opacity="0">7.2% · 100 KB
+          <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.5s" begin="0.82s" fill="freeze"/>
+        </text></g><g>
+        <text x="24" y="272" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#1F2328">JavaScript</text>
+        <rect x="176" y="259" width="1130" height="17" rx="4" fill="#EAEEF2"/>
+        <rect x="176" y="259" width="259" height="17" rx="4" fill="#0F766E"><animate attributeName="width" values="0;259" keyTimes="0;1" dur="1.1s" begin="0.55s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect>
+        <text x="1326" y="272" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#59636E" opacity="0">6.1% · 84 KB
+          <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.5s" begin="0.90s" fill="freeze"/>
+        </text></g><g>
+        <text x="24" y="304" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#1F2328">Astro</text>
+        <rect x="176" y="291" width="1130" height="17" rx="4" fill="#EAEEF2"/>
+        <rect x="176" y="291" width="235" height="17" rx="4" fill="#9A6700"><animate attributeName="width" values="0;235" keyTimes="0;1" dur="1.1s" begin="0.63s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect>
+        <text x="1326" y="304" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#59636E" opacity="0">5.5% · 77 KB
+          <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.5s" begin="0.98s" fill="freeze"/>
+        </text></g><g>
+        <text x="24" y="336" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#1F2328">JSON</text>
+        <rect x="176" y="323" width="1130" height="17" rx="4" fill="#EAEEF2"/>
+        <rect x="176" y="323" width="149" height="17" rx="4" fill="#8250DF"><animate attributeName="width" values="0;149" keyTimes="0;1" dur="1.1s" begin="0.7100000000000001s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect>
+        <text x="1326" y="336" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#59636E" opacity="0">3.5% · 49 KB
+          <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.5s" begin="1.06s" fill="freeze"/>
+        </text></g><g>
+        <text x="24" y="368" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#1F2328">6 others</text>
+        <rect x="176" y="355" width="1130" height="17" rx="4" fill="#EAEEF2"/>
+        <rect x="176" y="355" width="206" height="17" rx="4" fill="#B46708"><animate attributeName="width" values="0;206" keyTimes="0;1" dur="1.1s" begin="0.79s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect>
+        <text x="1326" y="368" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#59636E" opacity="0">4.8% · 67 KB
+          <animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="0.5s" begin="1.14s" fill="freeze"/>
+        </text></g></svg>
