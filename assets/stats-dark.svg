@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="190" viewBox="0 0 1600 190" fill="none" role="img" aria-labelledby="t d"><title id="t">Profile totals</title><desc id="d">4 totals: 8 public projects, 218 commits, last 12 months, 5 live deployments, 14 languages tracked.</desc><g><rect x="1" y="24" width="386" height="142" rx="14" fill="#151B23" stroke="#30363D"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="190" viewBox="0 0 1600 190" fill="none" role="img" aria-labelledby="t d"><style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style><title id="t">Profile totals</title><desc id="d">4 totals: 8 public projects, 218 commits, last 12 months, 5 live deployments, 14 languages tracked.</desc><g><rect x="1" y="24" width="386" height="142" rx="14" fill="#151B23" stroke="#30363D"/>
       <rect x="1" y="24" width="386" height="3" rx="1.5" fill="#F5B56B">
         <animate attributeName="width" values="0;386" keyTimes="0;1" dur="0.9s" begin="0.00s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
       </rect>
